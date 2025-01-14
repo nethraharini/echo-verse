@@ -1,20 +1,35 @@
 # echo-verse
 
+# Discord Chat App
 
-discord-chat-app/
+A real-time chat application built using Node.js and Socket.io.
 
+## Project Structure
 
-├── node_modules/
-├── public/
-   ├── css/
-   │   └── style.css
-   ├── js/
-   │   └── main.js
-   ├── chat.html
-   └── index.html
-├── server.js
-├── package.json
-├── utils/
-│   ├── messages.js
-│   └── users.js
-└── README.md
+## Setup Instructions
+
+1. Clone the repository.
+2. Install dependencies:
+npm install
+
+3. Run the server:
+node server.js
+
+4. Open your browser and go to `http://localhost:3000`.
+
+## Features
+
+- Real-time chat rooms
+- Join/leave notifications
+- User-friendly interface
+
+## Dependencies
+
+- Express
+- Socket.io
+- Path
+- (other dependencies...)
+
+## License
+
+MIT
