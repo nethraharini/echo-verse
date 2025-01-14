@@ -2,6 +2,8 @@
 
 
 discord-chat-app/
+
+
 ├── node_modules/
 ├── public/
    ├── css/
